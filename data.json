@@ -1,0 +1,42 @@
+[
+    {
+        "UserName": "1",
+        "Name": "Sirisha",
+        "Branch" : "CSE",
+        "QuestionsSolved" : 4,
+        "Score" : 400,
+        "Platform" : "LeetCode"
+    },
+    {
+        "UserName": "2",
+        "Name": "Haritha",
+        "Branch" : "CIVIL",
+        "QuestionsSolved" : 2,
+        "Score" : 200,
+        "Platform" : "CodeChef"
+    },
+    {
+        "UserName": "3",
+        "Name": "Neeraja",
+        "Branch" : "IT",
+        "QuestionsSolved" : 3,
+        "Score" : 300,
+        "Platform" : "HackerRank"
+    },
+    {
+        "UserName": "4",
+        "Name": "Anusha",
+        "Branch" : "EEE",
+        "QuestionsSolved" : 1,
+        "Score" : 100,
+        "Platform" : "CodeChef"
+    },
+    {
+        "UserName": "5",
+        "Name": "Kaveri",
+        "Branch" : "CSE",
+        "QuestionsSolved" : 8 ,
+        "Score" : 800,
+        "Platform" : "LeetCode"
+    }
+]
